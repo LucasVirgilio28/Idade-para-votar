@@ -1,18 +1,18 @@
-## Getting Started
+# Idade para votar
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Uma ferramenta para ajudar a saber se o usuário já tem idade suficiente para votar. Informe sua idade e será dito se você está adequado ou não a participar das eleições. 
 
-## Folder Structure
+Como usar: 
+1.Copie este meu repositório:
+git clone https://github.com/LucasVirgilio28/Idade-para-votar.git
 
-The workspace contains two folders by default, where:
+2.Abra o projeto no seu editor Java preferido (Eclipse, VSCode, IntelliJ, etc).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+3.Execute o arquivo App.java.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Tecnologias usadas: 
+-Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Autor
+Lucas Virgílio
+GitHub: https://github.com/LucasVirgilio28
